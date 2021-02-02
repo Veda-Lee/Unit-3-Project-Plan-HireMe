@@ -1,0 +1,68 @@
+body{
+    background: url("https://img.wallpapersafari.com/desktop/1600/900/1/86/T4en7I.jpg");
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    color:#00ed7b;
+}
+
+h3{
+    color:#00ed7b;
+}
+
+p{
+    color:#00b56a;
+}
+
+hobbies{
+    color:#00b56a;
+}
+
+college{
+    color:#00b56a;
+}
+
+ul{
+    color:#00b56a;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    height:300px;
+    border: 5px solid black;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+ul{
+    font-family: 'Raleway', sans-serif;
+}
